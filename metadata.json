@@ -1,0 +1,6 @@
+{
+  "name": "SI-ASUHAN KEBIDANAN: Kasus Kompleks & Kelompok Rentan",
+  "description": "Sistem Informasi Asuhan Kebidanan Terpadu Nasional untuk Model Asuhan Kebidanan, Tata Laksana Kasus Kompleks Obstetri, dan Kelompok Rentan berbasis Standar Kemenkes RI, IBI, dan POGI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
